@@ -1,0 +1,202 @@
+body{
+    font-family: "Arial", "Verdana", Tahoma;
+}
+
+.bodyGradient{
+    background: linear-gradient(darkred,black);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    min-height: max-content;
+    min-width: max-content;
+    height: 100vh;
+    width: 100vw;
+ 
+}
+
+table{
+    border-collapse: collapse;
+    margin: auto;
+    background-color: white;
+}
+
+#titre{
+    background-color: black;
+    text-align: center;
+    font-size: 1.7em;
+    padding: 5px;
+}
+
+#synopsis{
+    padding-left: 6px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+#description{
+    padding-left: 6px;
+    padding-bottom: 10px;
+}
+
+.paddingLeft{
+    padding-left: 3px;
+}
+
+.paddingRight{
+    padding-right: 2px;
+}
+
+.distribution{
+    background-color: rgb(218, 0, 0);
+    width: 300px;
+    text-align: left;
+    padding-left: 8px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 1.2em;
+    color: white;
+}
+
+.nomActeur{
+    background-color: white;
+    text-align: left;
+    font-weight: bold;
+    font-size: large;
+}
+
+.nomPersonnage{
+    color: blue;
+    font-size: small;
+    font-style: italic;
+    font-weight: lighter;
+    padding-top: 5px;
+}
+
+.imageActeur{
+    height: 60px;
+    border-radius: 30px;
+    margin: 10px;
+}
+
+.autresFilmEtSources{
+    text-align: left;
+    background-color: white;
+    font-size: 1.5em;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.texteBlanc{
+    color: white;
+}
+
+.backgroundBlanc{
+    background-color: white;
+}
+
+.textAlignLeft{
+    text-align: left;
+}
+
+.listeFilmEtSources{
+    text-align: left;
+    background-color: white;
+}
+
+
+.imdbMargin{
+    margin-bottom: 10px;
+}
+
+.image1{
+    background-image: url(../images/Liam_Neeson.png);
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 40px;
+    margin: 10px;
+}
+
+
+.image2{
+    background-image: url(../images/Ewan_McGregor.png);
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 40px;
+    margin: 10px;
+}
+
+
+.image3{
+    background-image: url(../images/Ray_Park.png);
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 40px;
+    margin: 10px;
+}
+
+
+.image4{
+    background-image: url(../images/Ian_McDiarmid.png);
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 40px;
+    margin: 10px;
+}
+
+
+.image5{
+    background-image: url(../images/Jake_Lloyd.png);
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 40px;
+    margin: 10px;
+}
+
+
+.image6{
+    background-image: url(../images/Natalie_Portman.png);
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 40px;
+    margin: 10px;
+}
+
+
+.image7{
+    background-image: url(../images/Ahmed_Best.png);
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 40px;
+    margin: 10px;
+}
+
